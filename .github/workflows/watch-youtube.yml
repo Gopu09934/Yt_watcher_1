@@ -34,7 +34,7 @@ jobs:
           echo "║         🎬 STARTING 6-HOUR YOUTUBE WATCH SESSION           ║"
           echo "╚════════════════════════════════════════════════════════════╝"
           echo ""
-          echo "📺 Video URL: https://www.youtube.com/live/l1Jr5aln8QI?si=xa85_ya0G2U6Aa8Y"
+          echo "📺 Video URL: https://www.youtube.com/a85_ya0G2U6Aa8Y"
           echo "⏱️  Duration: 6 hours (360 minutes)"
           echo "🌐 Browser: Chromium (Headless)"
           echo "📅 Started: $(date)"
